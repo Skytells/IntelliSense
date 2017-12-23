@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "IntelliSense\\": ""
+            "Skytells\\IntelliSense\\": "skytells/intellisense"
         }
     }
 
